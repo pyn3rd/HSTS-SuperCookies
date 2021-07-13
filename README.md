@@ -3,7 +3,7 @@
 
 
 #### Step 1
-Create 32 subdomains totally, from 0 to 31, because of the SuperCookie is 32 bit.
+Create 32 subdomains belonging to ``pynerd.xyz`` totally, from 0 to 31, because of the SuperCookie is 32 bit.
 
 ![image](https://user-images.githubusercontent.com/41412951/125381027-ca7a3080-e3c5-11eb-9775-ecb53ec6c34d.png)
 
