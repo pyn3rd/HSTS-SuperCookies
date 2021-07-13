@@ -65,7 +65,7 @@ Access the page ``https://pynerd.xyz/supercookies.html``, and then fill the blan
 
 #### Step 5
 
-1) Retrieve the response
+1) Receive the response
 ![image](https://user-images.githubusercontent.com/41412951/125384856-1cbe5000-e3cc-11eb-92b5-61fe5832244b.png)
 
 2) Analyze the result
