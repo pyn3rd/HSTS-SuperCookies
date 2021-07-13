@@ -3,13 +3,13 @@
 
 
 #### Step 1
-Create 32 subdomains totally, from 0 to 31, because of the SuperCookie is 32bit.
+Create 32 subdomains totally, from 0 to 31, because of the SuperCookie is 32 bit.
 
 ![image](https://user-images.githubusercontent.com/41412951/125381027-ca7a3080-e3c5-11eb-9775-ecb53ec6c34d.png)
 
 
 #### Step 2
-Update Nginx Server configuration like ``nginx.conf``
+Update Nginx Server configuration like ``nginx.conf``.
 ```
 server {
     server_name  "~^(?<name>\w+)\.hsts\.your-site\.com$";
@@ -56,7 +56,7 @@ server {
 ```
 
 #### Step 3
-Upload ``superookies.html`` to your own root directory of Nginx Server 
+Upload ``superookies.html`` to your own root directory of Nginx Server.
 
 #### Step 4
 Access the page ``https://pynerd.xyz/supercookies.html``, and then fill the blank ``HSTS`` which is the data you plan to send.
@@ -65,12 +65,12 @@ Access the page ``https://pynerd.xyz/supercookies.html``, and then fill the blan
 
 #### Step 5
 
-1) Receive the response
+1) Receive the response.
 ![image](https://user-images.githubusercontent.com/41412951/125384856-1cbe5000-e3cc-11eb-92b5-61fe5832244b.png)
 
-2) Analyze the result
+2) Analyze the result.
 ![image](https://user-images.githubusercontent.com/41412951/125388718-978a6980-e3d2-11eb-813e-10805d75121c.png)
 
 
-3) It is``HSTS``, so the data which sending from Client-Side browser can be stealed by SuperCookie
+3) It is``HSTS``, so the data which sending from Client-Side browser can be stealed by SuperCookie.
 
