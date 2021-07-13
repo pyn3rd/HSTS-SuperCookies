@@ -69,7 +69,8 @@ Access the page ``https://pynerd.xyz/supercookies.html``, and then fill the blan
 ![image](https://user-images.githubusercontent.com/41412951/125384856-1cbe5000-e3cc-11eb-92b5-61fe5832244b.png)
 
 2) Analyze the result
-![image](https://user-images.githubusercontent.com/41412951/125388357-f1d6fa80-e3d1-11eb-9ea6-4cbf049b18a9.png)
+![image](https://user-images.githubusercontent.com/41412951/125388718-978a6980-e3d2-11eb-813e-10805d75121c.png)
+
 
 3) The data is ``HSTS``, so you can steal the data which the client-side browser sending from SuperCookie
 
