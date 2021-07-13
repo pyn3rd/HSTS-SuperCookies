@@ -65,7 +65,7 @@ Access the page ``https://pynerd.xyz/supercookies.html``, and then fill the blan
 
 #### Step 5
 
-1) Receive the response, only these subdomains ``[1,4,9,11,14,15,17,19,21,25,27,30,31].hsts.pynerd.xyz`` can redirect to ``HTTPS``.
+1) Receive the response, only these subdomains ``[1,4,9,11,14,15,17,19,21,25,27,30,31].hsts.pynerd.xyz`` can redirect to ``HTTPS``, if the request is redirected, it means True, marked as 1, otherwise, marked as 0, it means False.
 ![image](https://user-images.githubusercontent.com/41412951/125384856-1cbe5000-e3cc-11eb-92b5-61fe5832244b.png)
 ![image](https://user-images.githubusercontent.com/41412951/125390505-960e7080-e3d5-11eb-8ded-b6bcaa958a10.png)
 
