@@ -3,7 +3,7 @@
 
 
 #### Step 1
-Create 32 subdomains belonging to ``pynerd.xyz`` totally, from 0 to 31, because of the SuperCookie is 32 bit.
+Create 32 subdomains belonging to ``pynerd.xyz`` totally, from 0 to 31, because of the SuperCookie is 32-bit.
 
 ![image](https://user-images.githubusercontent.com/41412951/125381027-ca7a3080-e3c5-11eb-9775-ecb53ec6c34d.png)
 
@@ -70,7 +70,7 @@ Access the page ``https://pynerd.xyz/supercookies.html``, and then fill the blan
 ![image](https://user-images.githubusercontent.com/41412951/125390505-960e7080-e3d5-11eb-8ded-b6bcaa958a10.png)
 
 
-2) Analyze the result.
+2) Analyze the result, separate every 8-bit as a group, 4 groups in total.
 ![image](https://user-images.githubusercontent.com/41412951/125388718-978a6980-e3d2-11eb-813e-10805d75121c.png)
 
 
