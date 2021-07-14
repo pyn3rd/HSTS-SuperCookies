@@ -59,7 +59,7 @@ server {
 Upload ``superookies.html`` to your own root directory of Nginx Server.
 
 #### Step 4
-Access the page ``https://pynerd.xyz/supercookies.html``, and then fill the blank ``HSTS`` which is the data you plan to send.
+Access the page ``https://demo.hsts.pynerd.xyz/supercookies.html``, and then fill the blank ``HSTS`` which is the data you plan to send.
 
 ![image](https://github.com/pyn3rd/HSTS-SuperCookies/blob/main/supercookie-demo.gif)
 
